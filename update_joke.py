@@ -1,9 +1,7 @@
 import requests
-import re
 
 def get_tech_fact():
     try:
-        # Reliable API for short, single-line random facts
         url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en"
         response = requests.get(url)
         data = response.json()
@@ -11,20 +9,27 @@ def get_tech_fact():
     except:
         return "Simplicity is the soul of efficiency. — Austin Freeman"
 
-def update_readme():
+def rebuild_readme():
     fact = get_tech_fact()
     
-    with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
+    # We define the entire layout right here in the script
+    new_readme_content = f"""# Hi there! 👋
+
+Welcome to my GitHub profile.
+
+## About Me
+I am an IT student working on automation projects.
+
+💡 **Random Fact:** {fact}
+
+## My Projects
+- Project 1
+- Project 2
+"""
     
-    # Wraps the single line strictly inside the hidden tags
-    fact_block = f"\n\n💡 **Random Fact:** {fact}\n\n"
-    
-    pattern = r".*?"
-    updated_content = re.sub(pattern, fact_block, content, flags=re.DOTALL)
-    
+    # This completely overwrites the old file with the clean layout
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(updated_content)
+        f.write(new_readme_content)
 
 if __name__ == "__main__":
-    update_readme()
+    rebuild_readme()
