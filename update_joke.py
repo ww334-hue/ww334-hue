@@ -9,14 +9,17 @@ def get_tech_fact():
     except:
         return "Simplicity is the soul of efficiency. — Austin Freeman"
 
-def generate_progress_bar(completed_semesters, total_semesters=8):
-    # Calculates a visual progress bar (e.g., [████░░░░░░])
+def generate_progress_bar(completed_semesters, total_semesters=9):
+    # If you have 6 left including the current one, and your full program has a different total,
+    # let's use a universal text layout that works on all screen resolutions.
     percentage = (completed_semesters / total_semesters) * 100
+    
+    # Creates a sleek classic terminal progress layout: [====------]
     bar_length = 10
     filled_length = int(round(bar_length * completed_semesters / total_semesters))
-    bar = '█' * filled_length + '░' * (bar_length - filled_length)
+    bar = '=' * filled_length + '-' * (bar_length - filled_length)
     return f"`[{bar}]` {percentage:.1f}%"
-
+    
 def rebuild_readme():
     fact = get_tech_fact()
     
