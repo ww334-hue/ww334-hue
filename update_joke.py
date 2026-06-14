@@ -1,6 +1,4 @@
 import requests
-import datetime
-import re
 
 def get_tech_fact():
     try:
@@ -11,23 +9,32 @@ def get_tech_fact():
     except:
         return "Simplicity is the soul of efficiency. — Austin Freeman"
 
-def calculate_days_left():
-    # Set a target milestone date (Year, Month, Day)
-    # Example: December 18, 2026
-    target_date = datetime.date(2026, 12, 18)
-    today = datetime.date.today()
-    
-    delta = target_date - today
-    return max(0, delta.days)
+def generate_progress_bar(completed_semesters, total_semesters=8):
+    # Calculates a visual progress bar (e.g., [████░░░░░░])
+    percentage = (completed_semesters / total_semesters) * 100
+    bar_length = 10
+    filled_length = int(round(bar_length * completed_semesters / total_semesters))
+    bar = '█' * filled_length + '░' * (bar_length - filled_length)
+    return f"`[{bar}]` {percentage:.1f}%"
 
 def rebuild_readme():
     fact = get_tech_fact()
-    days_remaining = calculate_days_left()
     
-    # The complete dashboard structure combining both concepts
+    # You have 6 left including the current one. Assuming an 8-semester degree:
+    # That means you have completed 2 semesters. Adjust these numbers if your total is different!
+    total_semesters = 9
+    semesters_left = 6
+    completed_semesters = total_semesters - semesters_left
+    
+    progress_display = generate_progress_bar(completed_semesters, total_semesters)
+    
     new_readme_content = f"""# Hi there! 👋
 
-Welcome to my GitHub profile. I'm a developer focusing on building robust software, database engineering, and automation systems.
+Welcome to my GitHub profile. I'm an IT undergraduate student focusing on building robust software, database engineering, and automation systems.
+
+## 🎓 Academic Journey
+* 📚 **Degree Progress:** {progress_display}
+* ⏳ **Timeline:** **{semesters_left} semesters remaining** (including current session) until graduation!
 
 ## 🛠️ My Tech Stack
 Here are the core technologies and frameworks I work with:
@@ -42,16 +49,11 @@ Here are the core technologies and frameworks I work with:
 * 🔒 **System Architecture:** Integrating secure native system gatekeepers with backend data ledgers.
 * 🤖 **Automation:** Building cloud-based profile metrics and scrapers via GitHub Actions.
 
-## 🎯 Active Targets & Goals
-* ⏳ **Milestone Countdown:** **{days_remaining} days** remaining until December graduation and major deployment targets!
-* 📚 **Weekly Habit:** Mastering advanced database performance optimizations and indexing configurations.
-
 ---
 
 💡 **Random Fact of the Day:** *{fact}*
 """
     
-    # Overwrite the README.md file
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new_readme_content)
 
