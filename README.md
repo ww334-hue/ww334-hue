@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. I'm an IT undergraduate student focusing on building robust software, database engineering, and automation systems.
 
 ## 🎓 Academic Journey
-* 📚 **Degree Progress:** `[███░░░░░░░]` 33.3%
+* 📚 **Degree Progress:** `[===-------]` 33.3%
 * ⏳ **Timeline:** **6 semesters remaining** (including current session) until graduation!
 
 ## 🛠️ My Tech Stack
@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Sweden has the least number of murders annually.*
+💡 **Random Fact of the Day:** *A chameleon's tongue is twice the length of its body.*
