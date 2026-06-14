@@ -1,4 +1,5 @@
 import requests
+import datetime
 
 def get_tech_fact():
     try:
@@ -12,22 +13,30 @@ def get_tech_fact():
 def rebuild_readme():
     fact = get_tech_fact()
     
-    # We define the entire layout right here in the script
+    # --- PART 1: TECH STACK & PROJECT STATUS PROFILE ---
     new_readme_content = f"""# Hi there! 👋
 
-Welcome to my GitHub profile.
+Welcome to my GitHub profile. I'm a developer focusing on building robust software, database engineering, and automation systems.
 
-## About Me
-I am an IT student working on automation projects.
+## 🛠️ My Tech Stack
+Here are the core technologies and frameworks I work with:
 
-💡 **Random Fact:** {fact}
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C#, VB.Net, x86 Assembly |
+| **Databases** | Relational Models, SQL, Database Normalization |
+| **Tools & OS** | Git, GitHub Actions, Windows Development |
 
-## My Projects
-- Project 1
-- Project 2
+## 🚀 Current Project Status
+* 🔒 **System Architecture:** Integrating secure native system gatekeepers with backend data ledgers.
+* 🤖 **Automation:** Building cloud-based profile metrics and scrapers via GitHub Actions.
+
+---
+
+💡 **Random Fact of the Day:** *{fact}*
 """
     
-    # This completely overwrites the old file with the clean layout
+    # Overwrite the README.md with the brand new dashboard layout
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new_readme_content)
 
