@@ -1,6 +1,10 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile. I'm a developer focusing on building robust software, database engineering, and automation systems.
+Welcome to my GitHub profile. I'm an IT undergraduate student focusing on building robust software, database engineering, and automation systems.
+
+## 🎓 Academic Journey
+* 📚 **Degree Progress:** `[███░░░░░░░]` 33.3%
+* ⏳ **Timeline:** **6 semesters remaining** (including current session) until graduation!
 
 ## 🛠️ My Tech Stack
 Here are the core technologies and frameworks I work with:
@@ -15,10 +19,6 @@ Here are the core technologies and frameworks I work with:
 * 🔒 **System Architecture:** Integrating secure native system gatekeepers with backend data ledgers.
 * 🤖 **Automation:** Building cloud-based profile metrics and scrapers via GitHub Actions.
 
-## 🎯 Active Targets & Goals
-* ⏳ **Milestone Countdown:** **187 days** remaining until December graduation and major deployment targets!
-* 📚 **Weekly Habit:** Mastering advanced database performance optimizations and indexing configurations.
-
 ---
 
-💡 **Random Fact of the Day:** *Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.*
+💡 **Random Fact of the Day:** *Sweden has the least number of murders annually.*
