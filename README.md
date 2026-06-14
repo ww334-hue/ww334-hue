@@ -7,9 +7,9 @@ Here are the core technologies and frameworks I work with:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C#, VB.Net, x86 Assembly |
+| **Languages** | Python, C#, VB.Net, x86 Assembly, C++ |
 | **Databases** | Relational Models, SQL, Database Normalization |
-| **Tools & OS** | Git, GitHub Actions, Windows Development |
+| **Tools & OS** | Git, GitHub Actions, Windows Development, Visual Studio |
 
 ## 🚀 Current Project Status
 * 🔒 **System Architecture:** Integrating secure native system gatekeepers with backend data ledgers.
@@ -17,4 +17,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The dot over the letter “i” is called a tittle.*
+💡 **Random Fact of the Day:** *Sex burns 360 calories per hour.*
