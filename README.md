@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.*
+💡 **Random Fact of the Day:** *The youngest pope ever was 11 years old.*
