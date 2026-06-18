@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *When sharks take a bite, their eyes roll back and their teeth jut out.*
+💡 **Random Fact of the Day:** *Simplicity is the soul of efficiency. — Austin Freeman*
