@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.*
+💡 **Random Fact of the Day:** *Simplicity is the soul of efficiency. — Austin Freeman*
