@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.*
+💡 **Random Fact of the Day:** *The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."*
