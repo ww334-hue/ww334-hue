@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."*
+💡 **Random Fact of the Day:** *A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.*
