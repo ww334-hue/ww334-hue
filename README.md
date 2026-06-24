@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.*
+💡 **Random Fact of the Day:** *The storage capacity of human brain exceeds 4 Terabytes.*
