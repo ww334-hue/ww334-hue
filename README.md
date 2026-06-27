@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Shakespeare invented the words “assassination” and “bump.”*
+💡 **Random Fact of the Day:** *A dime has 118 ridges around the edge. A quarter has 119.*
