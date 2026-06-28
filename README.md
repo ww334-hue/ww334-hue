@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *A dime has 118 ridges around the edge. A quarter has 119.*
+💡 **Random Fact of the Day:** *In the average lifetime, a person will walk the equivalent of 5 times around the equator.*
