@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *In the average lifetime, a person will walk the equivalent of 5 times around the equator.*
+💡 **Random Fact of the Day:** *Every day, 7% of the US eats at McDonald’s.*
