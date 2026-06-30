@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Every day, 7% of the US eats at McDonald’s.*
+💡 **Random Fact of the Day:** *The Great Wall of China is the only man-made structure visible from space.*
