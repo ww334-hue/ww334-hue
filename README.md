@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.*
+💡 **Random Fact of the Day:** *In 1386, a pig in France was executed by public hanging for the murder of a child*
