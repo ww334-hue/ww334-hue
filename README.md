@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Cats have over one hundred vocal sounds; dogs only have about ten.*
+💡 **Random Fact of the Day:** *Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.*
