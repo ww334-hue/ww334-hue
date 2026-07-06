@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.*
+💡 **Random Fact of the Day:** *Eskimos have over 15 words for the English word of 'Snow'*
