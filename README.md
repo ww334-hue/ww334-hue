@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The average American/Canadian will eat about 11.9 pounds of cereal per year!*
+💡 **Random Fact of the Day:** *You burn more calories sleeping than you do watching TV.*
