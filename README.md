@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *You burn more calories sleeping than you do watching TV.*
+💡 **Random Fact of the Day:** *The skeleton of Jeremy Bentham is present at all important meetings of the University of London*
