@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The skeleton of Jeremy Bentham is present at all important meetings of the University of London*
+💡 **Random Fact of the Day:** *A pregnant goldfish is called a twit.*
