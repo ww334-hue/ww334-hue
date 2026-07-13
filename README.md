@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of "ough" in the English Language.*
+💡 **Random Fact of the Day:** *The Black Widow spider eats her mate during or after sex.*
