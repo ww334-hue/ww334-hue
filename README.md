@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The Black Widow spider eats her mate during or after sex.*
+💡 **Random Fact of the Day:** *The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.*
