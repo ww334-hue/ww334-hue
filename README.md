@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.*
+💡 **Random Fact of the Day:** *"Underground" is the only word in the English language that begins and ends with the letters "und"*
