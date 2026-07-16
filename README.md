@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *"Underground" is the only word in the English language that begins and ends with the letters "und"*
+💡 **Random Fact of the Day:** *Cher's last name was "Sarkissian." She changed it because no one could pronounce it.*
