@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The U.S. Post Office handles 43 percent of the world’s mail.*
+💡 **Random Fact of the Day:** *Hannibal had only one eye after getting a disease while attacking Rome.*
