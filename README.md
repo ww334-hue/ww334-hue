@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Hannibal had only one eye after getting a disease while attacking Rome.*
+💡 **Random Fact of the Day:** *Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.*
