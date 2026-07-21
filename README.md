@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Dr. Seuss pronounced his name “soyce”.*
+💡 **Random Fact of the Day:** *Mount Olympus Mons on Mars is three times the size of Mount Everest.*
