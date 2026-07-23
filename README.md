@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Jimmy Carter was the first U.S. President to be born in a hospital.*
+💡 **Random Fact of the Day:** *Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.*
