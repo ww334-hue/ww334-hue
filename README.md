@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.*
+💡 **Random Fact of the Day:** *Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.*
