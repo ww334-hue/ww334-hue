@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The human body is comprised of 80% water.*
+💡 **Random Fact of the Day:** *The average lifespan of an eyelash is five months.*
