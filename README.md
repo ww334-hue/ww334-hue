@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Right handed people live, on average, nine years longer than left handed people do.*
+💡 **Random Fact of the Day:** *Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).*
