@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The eyes of a donkey are positioned so that it can see all four feet at all times.*
+💡 **Random Fact of the Day:** *Camel’s have three eyelids.*
