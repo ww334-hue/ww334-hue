@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Camel’s have three eyelids.*
+💡 **Random Fact of the Day:** *The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.*
