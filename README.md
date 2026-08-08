@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.*
+💡 **Random Fact of the Day:** *A piece of paper can be folded no more then 9 times.*
