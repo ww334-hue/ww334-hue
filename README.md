@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *A piece of paper can be folded no more then 9 times.*
+💡 **Random Fact of the Day:** *Al Capone’s business card said he was a used furniture dealer.*
