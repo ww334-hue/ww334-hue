@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Al Capone’s business card said he was a used furniture dealer.*
+💡 **Random Fact of the Day:** *“Lassie” was played by a group of male dogs; the main one was named Pal.*
