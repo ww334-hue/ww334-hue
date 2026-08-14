@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Length of beard an average man would grow if he never shaved 27.5 feet*
+💡 **Random Fact of the Day:** *Hawaii is the only coffee producing state.*
