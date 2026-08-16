@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.*
+💡 **Random Fact of the Day:** *Men can read smaller print than women; women can hear better.*
