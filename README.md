@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Men can read smaller print than women; women can hear better.*
+💡 **Random Fact of the Day:** *Starfish have no brains.*
