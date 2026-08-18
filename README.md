@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Starfish have no brains.*
+💡 **Random Fact of the Day:** *The Simpsons is the longest running animated series on TV.*
