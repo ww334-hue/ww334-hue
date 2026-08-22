@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.*
+💡 **Random Fact of the Day:** *In the White House, there are 13,092 knives, forks and spoons!*
