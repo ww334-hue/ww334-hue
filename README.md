@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. *
+💡 **Random Fact of the Day:** *Virginia Woolf wrote all her books standing.*
