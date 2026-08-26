@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Men can read smaller print than women; women can hear better.*
+💡 **Random Fact of the Day:** *More people are killed annually by donkeys than airplane crashes.*
