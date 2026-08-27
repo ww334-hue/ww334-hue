@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *More people are killed annually by donkeys than airplane crashes.*
+💡 **Random Fact of the Day:** *In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.*
