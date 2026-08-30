@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Non-dairy creamer is flammable.*
+💡 **Random Fact of the Day:** *Cuba is the only island in the Caribbean to have a railroad.*
