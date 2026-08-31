@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Cuba is the only island in the Caribbean to have a railroad.*
+💡 **Random Fact of the Day:** *You can sail all the way around the world at latitude 60 degrees south.*
