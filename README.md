@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *You can sail all the way around the world at latitude 60 degrees south.*
+💡 **Random Fact of the Day:** *Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.*
