@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Simplicity is the soul of efficiency. — Austin Freeman*
+💡 **Random Fact of the Day:** *The eyes of a donkey are positioned so that it can see all four feet at all times.*
