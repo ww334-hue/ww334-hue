@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The eyes of a donkey are positioned so that it can see all four feet at all times.*
+💡 **Random Fact of the Day:** *One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.*
