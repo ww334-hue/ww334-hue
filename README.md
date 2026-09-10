@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Insects outnumber humans 100,000,000 to one.*
+💡 **Random Fact of the Day:** *The highest per capita Jell-O comsumption in the US is Des Moines.*
