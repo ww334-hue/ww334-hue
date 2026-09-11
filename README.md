@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The highest per capita Jell-O comsumption in the US is Des Moines.*
+💡 **Random Fact of the Day:** *A horse can look forward with one eye and back with the other.*
