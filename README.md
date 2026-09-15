@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Simplicity is the soul of efficiency. — Austin Freeman*
+💡 **Random Fact of the Day:** *Worcestershire sauce in essentially an Anchovy Ketchup.*
