@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Your tongue is the only muscle in your body that is attached at only one end.*
+💡 **Random Fact of the Day:** *Like fingerprints, everyone's tongue print is different!*
