@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Beethoven dipped his head in cold water before he composed.*
+💡 **Random Fact of the Day:** *"You" is the second most spoken English word*
