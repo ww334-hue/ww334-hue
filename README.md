@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Americans on the average eat 18 acres of pizza every day.*
+💡 **Random Fact of the Day:** *The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.*
