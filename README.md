@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.*
+💡 **Random Fact of the Day:** *In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.*
