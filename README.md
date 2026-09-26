@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.*
+💡 **Random Fact of the Day:** *Sharkskin has tiny tooth-like scales all over.*
