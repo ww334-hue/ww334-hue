@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Sharkskin has tiny tooth-like scales all over.*
+💡 **Random Fact of the Day:** *Proportional to their size, cats have the largest eyes of all mammals.*
