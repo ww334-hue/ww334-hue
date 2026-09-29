@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *An average human loses about 200 head hairs per day.*
+💡 **Random Fact of the Day:** *Nutmeg is extremely poisonous if injected intravenously.*
