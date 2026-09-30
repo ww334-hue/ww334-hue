@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Nutmeg is extremely poisonous if injected intravenously.*
+💡 **Random Fact of the Day:** *Elephants are the only animals that can`t jump.*
