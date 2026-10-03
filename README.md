@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *111,111,111 x 111,111,111 = 12,345,678,987,654,321*
+💡 **Random Fact of the Day:** *Prince Charles and Prince William never travel on the same airplane in case there is a crash.*
