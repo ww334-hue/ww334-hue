@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *On average, Americans` favorite smell is banana.*
+💡 **Random Fact of the Day:** *In 1984, a Canadian farmer began renting advertising space on his cows.*
