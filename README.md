@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.*
+💡 **Random Fact of the Day:** *Rape is reported every six minutes in the U.S.*
