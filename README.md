@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Rape is reported every six minutes in the U.S.*
+💡 **Random Fact of the Day:** *The only domestic animal not mentioned in the Bible is the cat. *
