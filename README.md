@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *There are more psychoanalysts per capita in Buenos Aires than any other place in the world.*
+💡 **Random Fact of the Day:** *Meteorologists claim they`re right 85% of the time (think about that one!)*
