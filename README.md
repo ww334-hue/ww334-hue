@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Meteorologists claim they`re right 85% of the time (think about that one!)*
+💡 **Random Fact of the Day:** *Sigmund Freud had a morbid fear of ferns.*
