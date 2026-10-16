@@ -26,7 +26,7 @@ def rebuild_readme():
     # You have 6 left including the current one. Assuming an 8-semester degree:
     # That means you have completed 2 semesters. Adjust these numbers if your total is different!
     total_semesters = 9
-    semesters_left = 6
+    semesters_left = 4
     completed_semesters = total_semesters - semesters_left
     
     progress_display = generate_progress_bar(completed_semesters, total_semesters)
