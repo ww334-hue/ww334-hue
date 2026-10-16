@@ -44,9 +44,9 @@ Here are the core technologies and frameworks I work with:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C#, VB.Net, x86 Assembly |
+| **Languages** | Python, C#, VB.Net, x86 Assembly, Java,  |
 | **Databases** | Relational Models, SQL, Database Normalization |
-| **Tools & OS** | Git, GitHub Actions, Windows Development |
+| **Tools & OS** | Git, GitHub Actions, Windows Development, Kali Linux |
 
 ## 🚀 Current Project Status
 * 🔒 **System Architecture:** Integrating secure native system gatekeepers with backend data ledgers.
