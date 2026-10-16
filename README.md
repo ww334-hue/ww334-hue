@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Sigmund Freud had a morbid fear of ferns.*
+💡 **Random Fact of the Day:** *Until 1997, there were more pigs than people in Denmark.*
