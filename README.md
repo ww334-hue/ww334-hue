@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile. I'm an IT undergraduate student focusing on building robust software, database engineering, and automation systems.
+Welcome to my GitHub profile. I'm an Software Engineering undergraduate student focusing on building robust software, database engineering, and automation systems.
 
 ## 🎓 Academic Journey
 * 📚 **Degree Progress:** `[===-------]` 33.3%
