@@ -3,8 +3,8 @@
 Welcome to my GitHub profile. I'm an Software Engineering undergraduate student focusing on building robust software, database engineering, and automation systems.
 
 ## 🎓 Academic Journey
-* 📚 **Degree Progress:** `[===-------]` 33.3%
-* ⏳ **Timeline:** **6 semesters remaining** (including current session) until graduation!
+* 📚 **Degree Progress:** `[======----]` 55.6%
+* ⏳ **Timeline:** **4 semesters remaining** (including current session) until graduation!
 
 ## 🛠️ My Tech Stack
 Here are the core technologies and frameworks I work with:
@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Until 1997, there were more pigs than people in Denmark.*
+💡 **Random Fact of the Day:** *Two-thirds of the world`s eggplant is grown in New Jersey.  *
