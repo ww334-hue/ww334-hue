@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Two-thirds of the world`s eggplant is grown in New Jersey.  *
+💡 **Random Fact of the Day:** *Rape is reported every six minutes in the U.S.*
