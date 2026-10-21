@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Prince Charles and Prince William never travel on the same airplane in case there is a crash.*
+💡 **Random Fact of the Day:** *A crocodile cannot stick its tongue out.*
