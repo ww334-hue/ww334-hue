@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *A crocodile cannot stick its tongue out.*
+💡 **Random Fact of the Day:** *Mercury is the only planet whose orbit is coplanar with its equator.*
