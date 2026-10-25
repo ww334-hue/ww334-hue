@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Simplicity is the soul of efficiency. — Austin Freeman*
+💡 **Random Fact of the Day:** *Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.*
