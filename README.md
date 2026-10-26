@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.*
+💡 **Random Fact of the Day:** *98% of all murders and rapes are by a close family member or friend of the victim.*
