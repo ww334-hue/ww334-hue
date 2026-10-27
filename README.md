@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *98% of all murders and rapes are by a close family member or friend of the victim.*
+💡 **Random Fact of the Day:** *80% of burglaries are committed by people aged 13-21.*
