@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *80% of burglaries are committed by people aged 13-21.*
+💡 **Random Fact of the Day:** *The first McDonald's restaurant in Canada was in Richmond, British Columbia.*
