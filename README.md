@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The first McDonald's restaurant in Canada was in Richmond, British Columbia.*
+💡 **Random Fact of the Day:** *Because metal was scarce, the Oscars given out during World War II were made of wood.*
