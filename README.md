@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Because metal was scarce, the Oscars given out during World War II were made of wood.*
+💡 **Random Fact of the Day:** *40,000 Americans are injured by toilets each year.*
