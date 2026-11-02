@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The flea can jump 350 times its body length. It's like a human jumping the length of a football field.*
+💡 **Random Fact of the Day:** *No word in the English language rhymes with month, orange, silver and purple.*
