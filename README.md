@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *No word in the English language rhymes with month, orange, silver and purple.*
+💡 **Random Fact of the Day:** *Butte County, South Dakota is the geographical center of the U.S.*
