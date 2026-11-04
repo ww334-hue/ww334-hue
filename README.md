@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Butte County, South Dakota is the geographical center of the U.S.*
+💡 **Random Fact of the Day:** *Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.*
