@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.*
+💡 **Random Fact of the Day:** *The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."*
