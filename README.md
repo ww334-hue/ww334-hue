@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."*
+💡 **Random Fact of the Day:** *The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.*
