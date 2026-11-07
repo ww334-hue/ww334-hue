@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.*
+💡 **Random Fact of the Day:** *The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.*
