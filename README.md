@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Elephants are the only mammals that cannot jump.*
+💡 **Random Fact of the Day:** *The giant squid has the largest eyes in the world. *
