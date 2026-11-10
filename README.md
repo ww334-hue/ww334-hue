@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The giant squid has the largest eyes in the world. *
+💡 **Random Fact of the Day:** *In 1386, a pig in France was executed by public hanging for the murder of a child*
