@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *US Dollar bills are made out of cotton and linen.*
+💡 **Random Fact of the Day:** *Abraham Lincoln’s ghost is said to haunt the White House.*
