@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Abraham Lincoln’s ghost is said to haunt the White House.*
+💡 **Random Fact of the Day:** *Like fingerprints, everyone's tongue print is different!*
