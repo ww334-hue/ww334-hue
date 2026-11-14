@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Like fingerprints, everyone's tongue print is different!*
+💡 **Random Fact of the Day:** *Because of the rotation of the earth, an object can be thrown farther if it is thrown west.*
