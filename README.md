@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Because of the rotation of the earth, an object can be thrown farther if it is thrown west.*
+💡 **Random Fact of the Day:** *The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.*
