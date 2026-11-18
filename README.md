@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Winston Churchill was born in a ladies room during a dance.*
+💡 **Random Fact of the Day:** *The "pound" key on your keyboard (#) is called an octotroph. *
