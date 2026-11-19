@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The "pound" key on your keyboard (#) is called an octotroph. *
+💡 **Random Fact of the Day:** *Canada makes up 6.67 percent of the Earth`s land area*
