@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Canada makes up 6.67 percent of the Earth`s land area*
+💡 **Random Fact of the Day:** *It has been estimated that humans use only 10% of their brain.*
