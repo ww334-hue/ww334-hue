@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *Blondes have more hair than dark-haired people do.*
+💡 **Random Fact of the Day:** *Frank Lloyd Wright's son invented Lincoln Logs.*
