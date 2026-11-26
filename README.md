@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.*
+💡 **Random Fact of the Day:** *The praying mantis is the only insect that can turn its head*
