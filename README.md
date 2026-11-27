@@ -21,4 +21,4 @@ Here are the core technologies and frameworks I work with:
 
 ---
 
-💡 **Random Fact of the Day:** *The praying mantis is the only insect that can turn its head*
+💡 **Random Fact of the Day:** *Simplistic passwords contribute to over 80% of all computer password break-ins.*
